@@ -1,1 +1,1 @@
-A repository to use to publish my documentation sources and deliverables.
+A repository for publishing my sample documentation sources and deliverables.
