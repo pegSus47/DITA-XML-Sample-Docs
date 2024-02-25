@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_blm_qqb_41c">
+    <title>Collaborative Workflow in TaskFlow ProSync</title>
+    <shortdesc>Learn how to enhance collaboration on tasks and projects using the Collaborative
+        Workflow feature in TaskFlow ProSync.</shortdesc>
+    <conbody>
+        <p>The Collaborative Workflow feature in TaskFlow ProSync enables seamless collaboration
+            among team members on tasks and projects. The following diagram shows how to leverage
+            this powerful capability:</p>
+        <fig id="fig_s4j_wrb_41c">
+            <p>
+                <fig id="fig_wf4_jsb_41c">
+                    <title>Collaborative Workflow</title>
+                    <image
+                        href="../../Courses/How%20to%20Build%20a%20DITA%20XML%20Technical%20Writing%20Portfolio/sample_process_diagram_for_TaskFlow.png"
+                        scale="30" id="image_xf4_jsb_41c">
+                        <alt>Collaborative Workflow</alt>
+                    </image>
+                </fig>
+            </p>
+        </fig>
+    </conbody>
+</concept>
