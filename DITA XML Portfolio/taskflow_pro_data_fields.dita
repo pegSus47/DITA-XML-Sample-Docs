@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="taskflow_pro_data_fields">
+    <title>TaskFlow ProSync Data Fields</title>
+    <shortdesc>This topic describes the data fields that are used in the TaskFlow ProSync
+        application.</shortdesc>
+    <refbody>
+        <section id="section_yw3_c3b_41c">
+            <title>Project Information</title>
+            <p>The following data fields are related to project information:</p>
+            <table frame="all" rowsep="1" colsep="1" id="table_hxl_mjb_41c">
+                <title>Project Information Fields</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Field Name</entry>
+                            <entry>Description</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Project ID</entry>
+                            <entry>Unique identifier for the project.</entry>
+                        </row>
+                        <row>
+                            <entry>Project Name</entry>
+                            <entry>Name or title of the project.</entry>
+                        </row>
+                        <row>
+                            <entry>Start Date</entry>
+                            <entry>Commencement date of the project.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_zsb_rjb_41c">
+            <title>Data records</title>
+            <p>The following data fields help with managing records in the Data Management
+                module:</p>
+            <table frame="all" rowsep="1" colsep="1" id="table_hfr_5jb_41c">
+                <title>Data Record Fields</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Field Name</entry>
+                            <entry>Description</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Record ID</entry>
+                            <entry>Identifier for the data record.</entry>
+                        </row>
+                        <row>
+                            <entry>Data Type</entry>
+                            <entry>Type or category of the data.</entry>
+                        </row>
+                        <row>
+                            <entry>Timestamp</entry>
+                            <entry>Date and time when the data was recorded.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>
