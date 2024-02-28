@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\ksher\OneDrive\Desktop\DITA XML Portfolio\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="importing_data_into_taskflow_pro_application" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="task:1;3:57" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="title:1;4:12">Importing Data into TaskFlow ProSync</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="shortdesc:1;5:16">Here are step-by-step instructions for importing data into the TaskFlow ProSync
+        application for efficient data management.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="context:1;8:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="p:1;9:16">To import data into the TaskFlow ProSync application:</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="steps:1;11:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="step:1;12:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="cmd:1;13:22">Navigate to the "Data Management" module.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="step:2;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="cmd:2;16:22">Choose the import option from the toolbar.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="step:3;18:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="cmd:3;19:22">Select the data file to import and specify import settings.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="step:4;21:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="cmd:4;22:22">Review the preview and map fields if necessary.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="step:5;24:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="cmd:5;25:22">Initiate the import process and monitor the progress.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="step:6;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/importing_data_into_taskflow_pro_application.dita" xtrc="cmd:6;28:22">Verify the imported data in the respective module.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

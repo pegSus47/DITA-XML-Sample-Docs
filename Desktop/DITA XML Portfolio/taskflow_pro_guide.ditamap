@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>TaskFlow ProSync Guide</title>
+    <topichead navtitle="Navigating the TaskFlow ProSync Application Interface">
+        <topicref href="taskflow_pro_application_interface.dita"/>
+        <topicref href="taskflow_pro_application_shortcuts.dita"/>
+    </topichead>
+    <topichead navtitle="Working Collaboratively in Taskflow ProSync">
+        <topicref href="taskflow_pro_collaborative_workflow.dita"/>
+    </topichead>
+    <topichead navtitle="Managing Security in TaskFlow ProSync">
+        <topicref href="security_features_in_taskflow_pro_application.dita"/>
+    </topichead>
+    <topichead navtitle="Managing Data in TaskFlow ProSync ">
+        <topicref href="taskflow_pro_data_fields.dita"/>
+        <topicref href="importing_data_into_taskflow_pro_application.dita"/>
+    </topichead>
+</map>

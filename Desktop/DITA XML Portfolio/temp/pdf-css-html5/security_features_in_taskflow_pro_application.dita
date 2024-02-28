@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\ksher\OneDrive\Desktop\DITA XML Portfolio\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="security_features_in_taskflow_pro_application" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/security_features_in_taskflow_pro_application.dita" xtrc="concept:1;3:61" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/security_features_in_taskflow_pro_application.dita" xtrc="title:1;4:12">Security Features in TaskFlow ProSync</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/security_features_in_taskflow_pro_application.dita" xtrc="shortdesc:1;5:16">Learn about the robust security measures implemented in the TaskFlow ProSync
+        application to protect your data.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/security_features_in_taskflow_pro_application.dita" xtrc="conbody:1;7:14">
+        <p class="- topic/p " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/security_features_in_taskflow_pro_application.dita" xtrc="p:1;8:12">The TaskFlow ProSync application prioritizes your data security with the following
+            features:</p>
+        <ul id="ul_dmh_4gb_41c" class="- topic/ul " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/security_features_in_taskflow_pro_application.dita" xtrc="ul:1;10:33">
+            <li class="- topic/li " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/security_features_in_taskflow_pro_application.dita" xtrc="li:1;11:17">User Authentication: Rigorous login procedures ensure authorized access only.</li>
+            <li class="- topic/li " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/security_features_in_taskflow_pro_application.dita" xtrc="li:2;12:17">Role-Based Access Control: Assigns specific roles to users, limiting actions based
+                on responsibilities.</li>
+            <li class="- topic/li " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/security_features_in_taskflow_pro_application.dita" xtrc="li:3;14:17">Encryption: All data transmission and storage use advanced encryption
+                protocols.</li>
+            <li class="- topic/li " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/security_features_in_taskflow_pro_application.dita" xtrc="li:4;16:17">Activity Logging: Comprehensive logs track user actions for audit and
+                accountability.</li>
+        </ul>
+        <p class="- topic/p " xtrf="file:/C:/Users/ksher/OneDrive/Desktop/DITA%20XML%20Portfolio/security_features_in_taskflow_pro_application.dita" xtrc="p:2;19:13"/>
+    </conbody>
+</concept>
